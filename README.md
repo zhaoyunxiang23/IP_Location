@@ -8,10 +8,16 @@
 #使用：
 
 #Windows
+
 #命令行终端运行
+
 #python IP_Location.py
 
+
 #Linux
+
 #确保安装了Python3.7+，然后运行以下命令给脚本添加执行权限：
+
 #chmod +x IP_Location.py
+
 #python IP_Location.py
